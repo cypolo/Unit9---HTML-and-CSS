@@ -1,0 +1,151 @@
+/* Styling */
+html {
+  position: relative;
+}
+
+body {
+    margin-bottom: 100px;
+    font: Georgia, "Times New Roman";
+    background-color: #ededed;
+}
+
+/* Navbar Section Designing */
+.navbar-custom {
+    background-color: #fff;
+}
+
+.navbar-brand{
+  height: 50px;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  margin-left: 50px;
+  font: Georgia, "Times New Roman";
+  font-size: 28px;
+  font-weight: bold;
+  color: white;
+  background: #4aaaa5;
+  text-align: center;
+}
+
+.nav-item {
+    padding-top: 10px;
+    padding-right: 18px;
+    font: Georgia, "Times New Roman";
+    font-weight: lighter;
+  }
+
+
+/* Main Container Section Designing */
+.description {
+  margin-top: 10px;
+  padding: 20px;
+  background-color: #fff;
+  font-size: 16px;
+  line-height: 30px;
+  color: slategray;
+}
+
+.col-md-8{
+  margin-top: 35px;
+  background-color: #fff
+}
+
+.col-md-4{
+  margin-top: 35px;
+  background-color: #fff
+}
+
+.description-header {
+  margin-bottom: 30px;
+  font: Georgia, "Times New Roman";
+  font-size: 30px;
+  font-weight: bold;
+  color: #4aaaa5;
+}
+
+#description-image {
+  float: left;
+  width: 200px;
+  height: 200px;
+  margin-top: 18px;
+  margin-right: 18px;
+}
+
+
+/* Visualizations Images Section Designing */
+.description-immages {
+  margin-top: 10px;
+  padding: 20px;
+  margin-bottom: 10px;
+  font-family: Georgia, "Times New Roman";
+  background-color: #fff;
+  font-size: 24px;
+  font-weight: bold;
+  color: #4aaaa5;
+}
+
+.imageNav-content {
+  background-color: #fff;
+}
+
+.images {
+  width: 160px;
+  height: 160px;
+}
+
+
+/* Comparison Tab Designing */
+.comparison-header {
+  margin-bottom: 10px;
+  font-family: Georgia, Times, "Times New Roman";
+  font-size: 26px;
+  font-weight: bold;
+  color: #4aaaa5;
+  text-align: center;
+}
+
+.Comparison-band {
+  margin-top: 30px;
+  margin-left: 50px;
+  font: Georgia, "Times New Roman";
+  font-size: 36px;
+  font-weight: bold;
+  color: #4aaaa5;  
+}
+
+/* DATA Tab Designing */
+.description-text {
+  margin-left: 30px;
+  font-family: Georgia, Times, "Times New Roman";
+  font-size: 14px;
+}
+
+.data-band {
+  margin-top: 25px;
+  margin-bottom: 15px;
+  margin-left: 50px;
+  font: Georgia, Times, "Times New Roman";
+  font-size: 36px;
+  font-weight: bold;
+  color: #4aaaa5;  
+}
+
+.table-responsive {
+  margin-top: 30px;
+  margin-bottom: 50px;
+  margin-left: 65px;
+  margin-right: 65px;
+}
+
+
+/* Design of Footer */
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  padding-top: 5px;
+  background-color: grey;
+  color: white;
+  text-align: center;
+}
